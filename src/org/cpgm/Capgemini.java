@@ -22,7 +22,7 @@ public class Capgemini {
 	}
 	private void empEmail() {
 		System.out.println("Employee1");
-		
+		System.out.println("emp 2");
 		
 
 	}
